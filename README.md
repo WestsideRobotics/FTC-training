@@ -1,2 +1,2 @@
 # FTC-training
-Public repo for draft FTC training materials.
+Public repo for draft FTC training materials; see Wiki.
