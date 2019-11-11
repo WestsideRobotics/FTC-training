@@ -1,4 +1,4 @@
 # FTC-training
 Public repo for draft FTC training materials; see Wiki.
 
-Added this README on <i>origin</i> 11-11-19.
+Edited this README on <i>local</i> 11-11-19.
